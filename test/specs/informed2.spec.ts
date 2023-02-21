@@ -7,7 +7,6 @@ describe('Level 2 informed', () => {
         let ddNum = await Level2.dropDownNumber.getText();
         // Get radio button number text
         let radioNum = await Level2.radioButtonNumber.getText();
-        console.log("this is the radio num: ", radioNum);
         // Get date input value text
         const dateStr = await (await Level2.dateInputValue).getText();
         const date = new Date(dateStr);
@@ -24,6 +23,7 @@ describe('Level 2 informed', () => {
         await (await Level2.radioButtons[parseInt(radioNum)-1]).click();
         await Level2.buttonToClick.click();
         let alert = await browser.getAlertText();
+        await browser.saveScreenshot('./test/misc/level2.png');        
         expect (alert).toContain('SUCCESS!')
     });
 

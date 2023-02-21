@@ -39,7 +39,7 @@ export const config: Options.Testrunner = {
         // './test/specs/informed1.spec.ts',
         // './test/specs/informed2.spec.ts',
         // './test/specs/informed4.spec.ts',
-        //'./test/specs/informed3.spec.ts',
+        // './test/specs/informed3.spec.ts',
         './test/specs/heroku*.spec.ts',
         './test/specs/example.e2e.ts',
         './test/specs/wiki-home.spec.ts'
