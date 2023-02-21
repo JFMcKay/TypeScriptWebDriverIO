@@ -87,33 +87,36 @@
 
             if (rand > 0.67) {
                 buttons[2].type ="submit"
+                dds[4].innerText = 3;
                 dds[0].innerText = 3;
                 dropValue = 3
                 dds[3].innerText = "2019-09-22";  
                 dateValue = "2019-09-22";
-                dds[4].innerText = 3;      
+                dds[2].innerText = 3;      
                 radioValue = 3;
                      
             } else if (rand > 0.33 ) {
                 buttons[1].type ="submit"
+                dds[4].innerText = 2;
                 dds[0].innerText = 2;
                 dropValue = 2;
                 dds[3].innerText = "2018-07-17"; 
                 dateValue = "2018-07-17"; 
-                dds[4].innerText = 2; 
+                dds[2].innerText = 2; 
                 radioValue = 2;           
             } else {
                 buttons[0].type ="submit"
+                dds[4].innerText = 1;
                 dds[0].innerText = 1;
                 dropValue = 1;
                 dds[3].innerText = "2023-11-11";  
                 dateValue = "2023-11-11";  
-                dds[4].innerText = 1;
+                dds[2].innerText = 1;
                 radioValue = 1;  
             }
             
                 
-        })();
+        })()
 
 
         document.addEventListener("submit", function(event){

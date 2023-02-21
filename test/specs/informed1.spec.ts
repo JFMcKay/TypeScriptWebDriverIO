@@ -10,6 +10,7 @@ describe('Level 1 informed', () => {
 
         let alert = await browser.getAlertText();
         expect (alert).toContain('SUCCESS!')
+        browser.saveScreenshot('./test/screenshots/level1.png');
     });
 
     it('Name is not random name', async () => {
@@ -21,5 +22,6 @@ describe('Level 1 informed', () => {
         
         let alert = await browser.getAlertText();
         expect (alert).toContain('FAILURE!')
+        browser.saveScreenshot('./test/screenshots/level1ffail.png');
     });
 });

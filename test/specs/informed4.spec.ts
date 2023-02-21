@@ -14,9 +14,9 @@ describe('Level 4 informed', () => {
         await Level4.buttonToClick.click();
         if (await browser.isAlertOpen() == true) {
             alert = await browser.getAlertText();
-            await browser.acceptAlert();
         }
         expect(alert).toContain('SUCCESS!')
+        await browser.saveScreenshot('./test/screenshots/level4.png');
     });
 
 });

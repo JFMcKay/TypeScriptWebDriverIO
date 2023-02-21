@@ -23,26 +23,14 @@ describe('Level 3 informed', () => {
                 alert = await browser.getAlertText();
             }
         }
-        // await Level3.inputField1.waitForDisplayed();
-        // await Level3.inputField1.setValue('a');
-
-        // await Level3.inputField2.waitForDisplayed();
-        // await Level3.inputField2.setValue('a');
-
-        // await Level3.inputField3.waitForDisplayed();
-        // await Level3.inputField3.setValue('a');
-
-        // await Level3.inputField4.waitForDisplayed();
-        // await Level3.inputField4.setValue('a');
 
         await Level3.buttonToClick.click();
 
-
-        await browser.saveScreenshot('./test/misc/level3.png');
         if (await browser.isAlertOpen() == true && alert == undefined) {
             alert = await browser.getAlertText();
         }
         expect(alert).toContain('SUCCESS!')
+        await browser.saveScreenshot('./test/screenshots/level3.png');
     });
 
 });

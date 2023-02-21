@@ -4,18 +4,6 @@ class Level3 extends Page {
     public get inputField() {  
         return $$("//input");
     }
-    public get inputField1() {  
-        return $("//input[1]");
-    }
-    public get inputField2() {  
-        return $("//input[2]");
-    }
-    public get inputField3() {  
-        return $("//input[3]");
-    }
-    public get inputField4() {  
-        return $("//input[4]");
-    }
     public get buttonToClick() {
         return $("//button");
     }

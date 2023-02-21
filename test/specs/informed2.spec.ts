@@ -22,9 +22,9 @@ describe('Level 2 informed', () => {
         }
         await (await Level2.radioButtons[parseInt(radioNum)-1]).click();
         await Level2.buttonToClick.click();
-        let alert = await browser.getAlertText();
-        await browser.saveScreenshot('./test/misc/level2.png');        
-        expect (alert).toContain('SUCCESS!')
+        let alert = await browser.getAlertText();     
+        expect (alert).toContain('SUCCESS!');
+        browser.saveScreenshot('./test/screenshots/level2.png');
     });
 
 });

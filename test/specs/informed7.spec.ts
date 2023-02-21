@@ -10,6 +10,7 @@ describe('Level 7 informed', () => {
         await Level7.submitButton.click();
         const alert = await browser.getAlertText();
         expect(alert).toContain('SUCCESS!')
+        await browser.saveScreenshot('./test/screenshots/level7.png');
     });
 
 });
