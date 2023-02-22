@@ -14,7 +14,8 @@
     "wdio-wait-for": "^3.0.2"
   },
   "scripts": {
-    "wdio": "wdio run ./wdio.conf.ts"
+    "wdio": "wdio run ./wdio.conf.ts",
+    "test": "wdio run ./wdio.conf.ts"
   },
   "dependencies": {
     "http-server": "^14.1.1"

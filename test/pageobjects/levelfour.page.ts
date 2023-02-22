@@ -6,7 +6,7 @@ class Level4 extends Page {
         return $("//input");
     }
     public get buttonToClick() {
-        return $("//button");
+        return $("//button[contains(text(),'Submit')]");
     }
 
     public open() {
