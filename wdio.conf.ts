@@ -12,7 +12,10 @@ export const config: Options.Testrunner = {
             project: './tsconfig.json'
         }
     },
-    
+
+    hostname: '34.239.253.244',
+    port: 4444,
+    path: '/',
     // ==================
     // Specify Test Files
     // ==================
@@ -43,17 +46,33 @@ export const config: Options.Testrunner = {
     //
     maxInstances: 10,
     //
-    capabilities: [{
-        
-        maxInstances: 10,
+    capabilities: [
+    {
+        maxInstances: 1,
         //
         browserName: 'chrome',
-        'goog:chromeOptions': { args: ["--headless", "user-agent=...","--disable-gpu","--window-size=1440,735"]},
+        'goog:chromeOptions': { args: ["--headless"]},
         acceptInsecureCerts: true,
-        
+    },{
+        maxInstances: 1,
+        //
+        browserName: 'firefox',
+        'moz:firefoxOptions': { args: ["--headless"]},
+        acceptInsecureCerts: true,
+
+    },
+    {   
+        maxInstances: 1,
+        //
+        browserName: 'edge',
+        'ms:edgeOptions': { args: ["--headless"]},
+        acceptInsecureCerts: true,
     }
     
+    
 ],
+
+
     //
     // ===================
     // Test Configurations
@@ -86,7 +105,7 @@ export const config: Options.Testrunner = {
     // Services take over a specific job you don't want to take care of. They enhance
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
-    services: ['chromedriver'],
+    services: ['docker'],
     
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber
