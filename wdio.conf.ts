@@ -1,5 +1,4 @@
 import type { Options } from '@wdio/types'
-import { ReportAggregator, HtmlReporter } from 'wdio-html-nice-reporter';
 
 export const config: Options.Testrunner = {
     //
@@ -45,12 +44,16 @@ export const config: Options.Testrunner = {
     maxInstances: 10,
     //
     capabilities: [{
-
+        
         maxInstances: 10,
         //
         browserName: 'chrome',
-        acceptInsecureCerts: true
-    }],
+        'goog:chromeOptions': { args: ["--headless", "user-agent=...","--disable-gpu","--window-size=1440,735"]},
+        acceptInsecureCerts: true,
+        
+    }
+    
+],
     //
     // ===================
     // Test Configurations
@@ -110,15 +113,16 @@ export const config: Options.Testrunner = {
             outputDir: './reports/html-reports/',
             filename: 'report.html',
             reportTitle: 'Test Report',
+            linkScreenshots: true,
+            browserName: 'chrome',
             //to show the report in a browser when done
             showInBrowser: true,
             collapseTests: false,
             //to turn on screenshots after every test
-            useOnAfterCommandForScreenshot: true
+            useOnAfterCommandForScreenshot: true,
             }],
             
-
-    ],    
+    ],
     //
     // Options to be passed to Mocha.
     // See the full list at http://mochajs.org/
@@ -126,7 +130,7 @@ export const config: Options.Testrunner = {
         ui: 'bdd',
         timeout: 5000
     },
-    
+
     
 
 }
