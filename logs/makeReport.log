@@ -1,0 +1,408 @@
+[2023-02-28T09:22:29.975] [INFO] debug - Report Aggregation started
+[2023-02-28T09:22:29.981] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-02-28T09:22:29.981] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-02-28T09:22:29.981] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-02-28T09:22:29.982] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-02-28T09:22:29.982] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-02-28T09:22:29.982] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-02-28T09:22:29.983] [INFO] debug - Aggregated 6 specs, 6 suites, 
+[2023-02-28T09:22:29.983] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-02-28T09:22:30.010] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-02-28T09:22:30.010] [INFO] debug - Json Generation Completed
+[2023-02-28T09:22:30.011] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-02-28T09:22:30.031] [INFO] debug - Html Generation Completed
+[2023-02-28T09:22:30.037] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-02-28T09:22:30.045] [INFO] debug - browser launched
+[2023-02-28T09:22:30.045] [INFO] debug - Report Aggregation completed
+[2023-02-28T09:23:41.441] [INFO] debug - Report Aggregation started
+[2023-02-28T09:23:41.447] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-02-28T09:23:41.448] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-02-28T09:23:41.448] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-02-28T09:23:41.448] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-02-28T09:23:41.449] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-02-28T09:23:41.449] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-02-28T09:23:41.449] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-02-28T09:23:41.450] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-02-28T09:23:41.450] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-02-28T09:23:41.450] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-02-28T09:23:41.450] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-02-28T09:23:41.450] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-02-28T09:23:41.451] [INFO] debug - Aggregated 7 specs, 12 suites, 
+[2023-02-28T09:23:41.452] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-02-28T09:23:41.484] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-02-28T09:23:41.485] [INFO] debug - Json Generation Completed
+[2023-02-28T09:23:41.485] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-02-28T09:23:41.508] [INFO] debug - Html Generation Completed
+[2023-02-28T09:23:41.515] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-02-28T09:23:41.522] [INFO] debug - browser launched
+[2023-02-28T09:23:41.522] [INFO] debug - Report Aggregation completed
+[2023-03-02T07:26:12.320] [INFO] debug - Report Aggregation started
+[2023-03-02T07:26:12.327] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:26:12.327] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:26:12.327] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:26:12.328] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:26:12.328] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:26:12.328] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:26:12.328] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:26:12.329] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:26:12.329] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:26:12.329] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:26:12.329] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:26:12.329] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:26:12.330] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:26:12.330] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:26:12.330] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:26:12.330] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:26:12.330] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:26:12.331] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:26:12.331] [INFO] debug - Aggregated 7 specs, 18 suites, 
+[2023-03-02T07:26:12.332] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:26:12.376] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:26:12.377] [INFO] debug - Json Generation Completed
+[2023-03-02T07:26:12.377] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T07:26:12.404] [INFO] debug - Html Generation Completed
+[2023-03-02T07:26:12.412] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T07:26:12.421] [INFO] debug - browser launched
+[2023-03-02T07:26:12.421] [INFO] debug - Report Aggregation completed
+[2023-03-02T07:26:43.512] [INFO] debug - Report Aggregation started
+[2023-03-02T07:27:15.384] [INFO] debug - Report Aggregation started
+[2023-03-02T07:27:15.390] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:27:15.391] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:27:15.391] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:27:15.391] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:27:15.391] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:27:15.391] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:27:15.393] [INFO] debug - Aggregated 6 specs, 6 suites, 
+[2023-03-02T07:27:15.393] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:27:15.431] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:27:15.431] [INFO] debug - Json Generation Completed
+[2023-03-02T07:27:15.431] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T07:27:15.452] [INFO] debug - Html Generation Completed
+[2023-03-02T07:27:15.458] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T07:27:15.464] [INFO] debug - browser launched
+[2023-03-02T07:27:15.465] [INFO] debug - Report Aggregation completed
+[2023-03-02T07:29:01.222] [INFO] debug - Report Aggregation started
+[2023-03-02T07:29:01.229] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:29:01.229] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:29:01.229] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:29:01.229] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:29:01.230] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:29:01.230] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:29:01.230] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T07:29:01.230] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T07:29:01.231] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T07:29:01.231] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T07:29:01.231] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T07:29:01.231] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T07:29:01.232] [INFO] debug - Aggregated 7 specs, 12 suites, 
+[2023-03-02T07:29:01.233] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:29:01.266] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T07:29:01.266] [INFO] debug - Json Generation Completed
+[2023-03-02T07:29:01.267] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T07:29:01.291] [INFO] debug - Html Generation Completed
+[2023-03-02T07:29:01.300] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T07:29:01.309] [INFO] debug - browser launched
+[2023-03-02T07:29:01.309] [INFO] debug - Report Aggregation completed
+[2023-03-02T08:46:07.777] [INFO] debug - Report Aggregation started
+[2023-03-02T08:46:07.783] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T08:46:07.783] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T08:46:07.783] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T08:46:07.784] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T08:46:07.784] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T08:46:07.784] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T08:46:07.785] [INFO] debug - Aggregated 6 specs, 6 suites, 
+[2023-03-02T08:46:07.785] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T08:46:07.813] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T08:46:07.814] [INFO] debug - Json Generation Completed
+[2023-03-02T08:46:07.815] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T08:46:07.845] [INFO] debug - Html Generation Completed
+[2023-03-02T08:46:07.855] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T08:46:07.864] [INFO] debug - browser launched
+[2023-03-02T08:46:07.864] [INFO] debug - Report Aggregation completed
+[2023-03-02T09:01:31.210] [INFO] debug - Report Aggregation started
+[2023-03-02T09:01:31.216] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T09:01:31.217] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T09:01:31.217] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T09:01:31.217] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T09:01:31.218] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T09:01:31.218] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T09:01:31.218] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T09:01:31.218] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T09:01:31.219] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T09:01:31.219] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T09:01:31.219] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T09:01:31.219] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T09:01:31.220] [INFO] debug - Aggregated 7 specs, 12 suites, 
+[2023-03-02T09:01:31.221] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:01:31.256] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:01:31.257] [INFO] debug - Json Generation Completed
+[2023-03-02T09:01:31.257] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T09:01:31.281] [INFO] debug - Html Generation Completed
+[2023-03-02T09:01:31.288] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T09:01:31.296] [INFO] debug - browser launched
+[2023-03-02T09:01:31.296] [INFO] debug - Report Aggregation completed
+[2023-03-02T09:39:51.304] [INFO] debug - Report Aggregation started
+[2023-03-02T09:39:51.309] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T09:39:51.310] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T09:39:51.310] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T09:39:51.310] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T09:39:51.310] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T09:39:51.311] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T09:39:51.311] [INFO] debug - Aggregated 6 specs, 6 suites, 
+[2023-03-02T09:39:51.312] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:39:51.340] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:39:51.340] [INFO] debug - Json Generation Completed
+[2023-03-02T09:39:51.341] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T09:39:51.362] [INFO] debug - Html Generation Completed
+[2023-03-02T09:39:51.373] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T09:39:51.382] [INFO] debug - browser launched
+[2023-03-02T09:39:51.382] [INFO] debug - Report Aggregation completed
+[2023-03-02T09:45:39.194] [INFO] debug - Report Aggregation started
+[2023-03-02T09:45:39.200] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T09:45:39.200] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T09:45:39.200] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T09:45:39.201] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T09:45:39.201] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T09:45:39.201] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T09:45:39.201] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-02T09:45:39.201] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-02T09:45:39.202] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-02T09:45:39.202] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-02T09:45:39.202] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-02T09:45:39.202] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-02T09:45:39.203] [INFO] debug - Aggregated 7 specs, 12 suites, 
+[2023-03-02T09:45:39.203] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:45:39.241] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-02T09:45:39.242] [INFO] debug - Json Generation Completed
+[2023-03-02T09:45:39.242] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-02T09:45:39.266] [INFO] debug - Html Generation Completed
+[2023-03-02T09:45:39.273] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-02T09:45:39.280] [INFO] debug - browser launched
+[2023-03-02T09:45:39.281] [INFO] debug - Report Aggregation completed
+[2023-03-06T12:29:21.520] [INFO] debug - Report Aggregation started
+[2023-03-06T12:29:21.535] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-06T12:29:21.535] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T12:29:21.535] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T12:29:21.536] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T12:29:21.536] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T12:29:21.536] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T12:29:21.536] [INFO] debug - Included metrics for suite: 0-2 suite-0-0
+[2023-03-06T12:29:21.536] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T12:29:21.537] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T12:29:21.537] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T12:29:21.537] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T12:29:21.537] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T12:29:21.538] [INFO] debug - Aggregated 17 specs, 12 suites, 
+[2023-03-06T12:29:21.539] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T12:29:21.592] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T12:29:21.592] [INFO] debug - Json Generation Completed
+[2023-03-06T12:29:21.593] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T12:29:21.618] [INFO] debug - Html Generation Completed
+[2023-03-06T12:29:21.627] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T12:29:21.634] [INFO] debug - browser launched
+[2023-03-06T12:29:21.635] [INFO] debug - Report Aggregation completed
+[2023-03-06T12:44:26.954] [INFO] debug - Report Aggregation started
+[2023-03-06T13:15:34.309] [INFO] debug - Report Aggregation started
+[2023-03-06T13:15:34.317] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T13:15:34.317] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T13:15:34.318] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T13:15:34.318] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T13:15:34.318] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T13:15:34.319] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T13:15:34.319] [INFO] debug - Aggregated 12 specs, 6 suites, 
+[2023-03-06T13:15:34.320] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:15:34.352] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:15:34.353] [INFO] debug - Json Generation Completed
+[2023-03-06T13:15:34.353] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T13:15:34.374] [INFO] debug - Html Generation Completed
+[2023-03-06T13:15:34.381] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T13:15:34.388] [INFO] debug - browser launched
+[2023-03-06T13:15:34.389] [INFO] debug - Report Aggregation completed
+[2023-03-06T13:18:47.913] [INFO] debug - Report Aggregation started
+[2023-03-06T13:19:44.436] [INFO] debug - Report Aggregation started
+[2023-03-06T13:19:44.442] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T13:19:44.442] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T13:19:44.442] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T13:19:44.442] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T13:19:44.443] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T13:19:44.443] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T13:19:44.444] [INFO] debug - Aggregated 12 specs, 6 suites, 
+[2023-03-06T13:19:44.444] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:19:44.474] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:19:44.474] [INFO] debug - Json Generation Completed
+[2023-03-06T13:19:44.475] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T13:19:44.499] [INFO] debug - Html Generation Completed
+[2023-03-06T13:19:44.505] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T13:19:44.512] [INFO] debug - browser launched
+[2023-03-06T13:19:44.513] [INFO] debug - Report Aggregation completed
+[2023-03-06T13:20:14.710] [INFO] debug - Report Aggregation started
+[2023-03-06T13:20:14.718] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T13:20:14.718] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T13:20:14.718] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T13:20:14.719] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T13:20:14.719] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T13:20:14.719] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T13:20:14.719] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T13:20:14.720] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T13:20:14.720] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T13:20:14.720] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T13:20:14.720] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T13:20:14.721] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T13:20:14.723] [INFO] debug - Aggregated 13 specs, 12 suites, 
+[2023-03-06T13:20:14.723] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:20:14.761] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T13:20:14.762] [INFO] debug - Json Generation Completed
+[2023-03-06T13:20:14.762] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T13:20:14.784] [INFO] debug - Html Generation Completed
+[2023-03-06T13:20:14.792] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T13:20:14.800] [INFO] debug - browser launched
+[2023-03-06T13:20:14.800] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:16:29.254] [INFO] debug - Report Aggregation started
+[2023-03-06T14:16:29.263] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:16:29.263] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:16:29.264] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:16:29.264] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:16:29.264] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:16:29.265] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:16:29.265] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:16:29.265] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:16:29.266] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:16:29.266] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:16:29.266] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:16:29.267] [INFO] debug - Aggregated 12 specs, 11 suites, 
+[2023-03-06T14:16:29.267] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:16:29.307] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:16:29.307] [INFO] debug - Json Generation Completed
+[2023-03-06T14:16:29.308] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:16:29.331] [INFO] debug - Html Generation Completed
+[2023-03-06T14:16:29.338] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:16:29.345] [INFO] debug - browser launched
+[2023-03-06T14:16:29.345] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:17:03.094] [INFO] debug - Report Aggregation started
+[2023-03-06T14:17:25.104] [INFO] debug - Report Aggregation started
+[2023-03-06T14:17:25.109] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:17:25.109] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:17:25.109] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:17:25.110] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:17:25.110] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:17:25.111] [INFO] debug - Aggregated 6 specs, 5 suites, 
+[2023-03-06T14:17:25.111] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:17:25.139] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:17:25.139] [INFO] debug - Json Generation Completed
+[2023-03-06T14:17:25.140] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:17:25.165] [INFO] debug - Html Generation Completed
+[2023-03-06T14:17:25.172] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:17:25.180] [INFO] debug - browser launched
+[2023-03-06T14:17:25.180] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:19:19.506] [INFO] debug - Report Aggregation started
+[2023-03-06T14:19:19.511] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:19:19.511] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:19:19.512] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:19:19.512] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:19:19.512] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:19:19.512] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:19:19.513] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:19:19.513] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:19:19.513] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:19:19.513] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:19:19.514] [INFO] debug - Aggregated 7 specs, 10 suites, 
+[2023-03-06T14:19:19.514] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:19:19.549] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:19:19.550] [INFO] debug - Json Generation Completed
+[2023-03-06T14:19:19.550] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:19:19.573] [INFO] debug - Html Generation Completed
+[2023-03-06T14:19:19.579] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:19:19.586] [INFO] debug - browser launched
+[2023-03-06T14:19:19.587] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:31:25.642] [INFO] debug - Report Aggregation started
+[2023-03-06T14:31:25.653] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:31:25.653] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:31:25.654] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:31:25.654] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:31:25.654] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:31:25.654] [INFO] debug - Included metrics for suite: 0-3 suite-0-0
+[2023-03-06T14:31:25.655] [INFO] debug - Included metrics for suite: 0-4 suite-0-0
+[2023-03-06T14:31:25.655] [INFO] debug - Included metrics for suite: 0-0 suite-0-0
+[2023-03-06T14:31:25.656] [INFO] debug - Included metrics for suite: 0-1 suite-0-0
+[2023-03-06T14:31:25.656] [INFO] debug - Included metrics for suite: 0-5 suite-0-0
+[2023-03-06T14:31:25.656] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:31:25.656] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:31:25.656] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:31:25.657] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:31:25.657] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:31:25.657] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:31:25.658] [INFO] debug - Aggregated 13 specs, 16 suites, 
+[2023-03-06T14:31:25.659] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:31:25.710] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:31:25.710] [INFO] debug - Json Generation Completed
+[2023-03-06T14:31:25.711] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:31:25.739] [INFO] debug - Html Generation Completed
+[2023-03-06T14:31:25.746] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:31:25.753] [INFO] debug - browser launched
+[2023-03-06T14:31:25.753] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:34:21.255] [INFO] debug - Report Aggregation started
+[2023-03-06T14:34:21.262] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:21.262] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:21.262] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:21.263] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:21.263] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:21.263] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:21.264] [INFO] debug - Aggregated 12 specs, 6 suites, 
+[2023-03-06T14:34:21.264] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:21.292] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:21.293] [INFO] debug - Json Generation Completed
+[2023-03-06T14:34:21.293] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:34:21.314] [INFO] debug - Html Generation Completed
+[2023-03-06T14:34:21.320] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:34:21.327] [INFO] debug - browser launched
+[2023-03-06T14:34:21.327] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:34:49.857] [INFO] debug - Report Aggregation started
+[2023-03-06T14:34:49.864] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:49.864] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:49.864] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:49.865] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:49.865] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:49.865] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:49.865] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:49.866] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:49.866] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:49.866] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:49.866] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:49.867] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:49.868] [INFO] debug - Aggregated 13 specs, 12 suites, 
+[2023-03-06T14:34:49.868] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:49.904] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:49.904] [INFO] debug - Json Generation Completed
+[2023-03-06T14:34:49.904] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:34:49.927] [INFO] debug - Html Generation Completed
+[2023-03-06T14:34:49.933] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:34:49.940] [INFO] debug - browser launched
+[2023-03-06T14:34:49.941] [INFO] debug - Report Aggregation completed
+[2023-03-06T14:34:58.560] [INFO] debug - Report Aggregation started
+[2023-03-06T14:34:58.567] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:58.567] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:58.567] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:58.568] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:58.568] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:58.568] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:58.568] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:58.568] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:58.569] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:58.569] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:58.569] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:58.569] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:58.570] [INFO] debug - Included metrics for suite: 1-0 suite-0-0
+[2023-03-06T14:34:58.570] [INFO] debug - Included metrics for suite: 1-4 suite-0-0
+[2023-03-06T14:34:58.570] [INFO] debug - Included metrics for suite: 1-1 suite-0-0
+[2023-03-06T14:34:58.570] [INFO] debug - Included metrics for suite: 1-3 suite-0-0
+[2023-03-06T14:34:58.570] [INFO] debug - Included metrics for suite: 1-2 suite-0-0
+[2023-03-06T14:34:58.571] [INFO] debug - Included metrics for suite: 1-5 suite-0-0
+[2023-03-06T14:34:58.572] [INFO] debug - Aggregated 13 specs, 18 suites, 
+[2023-03-06T14:34:58.572] [INFO] debug - Json report write starting: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:58.615] [INFO] debug - Json write completed: C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\master-report.json
+[2023-03-06T14:34:58.616] [INFO] debug - Json Generation Completed
+[2023-03-06T14:34:58.616] [INFO] debug - Html Generation started in C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter
+[2023-03-06T14:34:58.640] [INFO] debug - Html Generation Completed
+[2023-03-06T14:34:58.647] [INFO] debug - copyied css : C:\Users\jerem\OneDrive\Desktop\WebdriverIO\node_modules\wdio-html-nice-reporter\css\ to C:\Users\jerem\OneDrive\Desktop\WebdriverIO\reports\html-reports\
+[2023-03-06T14:34:58.654] [INFO] debug - browser launched
+[2023-03-06T14:34:58.654] [INFO] debug - Report Aggregation completed
